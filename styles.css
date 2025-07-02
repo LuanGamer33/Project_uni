@@ -22,7 +22,7 @@ body {
     font-family: 'Segoe UI', system-ui, sans-serif; /* Establece una pila de fuentes moderna y limpia. */
     line-height: 1.7; /* Aumenta el espaciado entre líneas para una mejor legibilidad. */
     color: var(--text-color); /* Aplica el color de texto definido. */
-    background: linear-gradient(145deg, #71f3cc, #28a48f, #209a6d); /* Aplica un fondo degradado para un atractivo visual. */
+    background: linear-gradient(to bottom, #95D2B3 65%, #55AD9B 80%); /* Aplica un fondo degradado para un atractivo visual. */
     min-height: 100vh; /* Asegura que el cuerpo ocupe al menos la altura completa de la ventana gráfica. */
     display: flex; /* Habilita el diseño flexbox para el cuerpo. */
     flex-direction: column; /* Organiza los elementos flex (secciones) en una columna. */
